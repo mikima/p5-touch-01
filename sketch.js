@@ -16,6 +16,6 @@ function draw() {
     var touch = touches[i];
     console.log(touch)
     fill(colorList[i]);
-    ellipse(touch.x, touch.y, 50, 50);
+    ellipse(touch.x, touch.y, 150, 150);
   }
 }
