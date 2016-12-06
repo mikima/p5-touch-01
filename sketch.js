@@ -4,7 +4,7 @@ function setup() {
 
 function draw() {
   
-  background(255,50);
+  background(200,50);
   
   // Define one color for each touch point
   var colorList = ['#e86584',
